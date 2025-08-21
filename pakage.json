@@ -3,9 +3,11 @@
     "version": "1.0.0",
     "description": "Proyecto de logicas de la programacion en Node.js (CLI).",
     "main": "index.js",
+    "type": "module",
     "scripts": {
-        "start"; "node index.js"
+        "start": "node index.js"
     },
+    
     "autor": "logicas programacion",
     "license": "MIT"
 }
